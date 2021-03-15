@@ -41,7 +41,7 @@ Then the module provided additional information for the Module 4 challenge-- "st
 ![](img/District_Summary_THSupdated.png)
 (District summary after making the "NaN" changes)
 
-The passing math % has decreased by .2%-- one can conclude that some of Thomas High School 9th graders who were removed has passing math score.
+The passing math % has decreased by .2%-- one can conclude that some of Thomas High School 9th graders who were removed has passing math score. One can also predict that since there is no changes in "overall passing %", 
 
 * How is the school summary affected?
 
