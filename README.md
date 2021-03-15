@@ -29,7 +29,16 @@ Using Pandas and Python to explore the given datasets: 1) [schools_complete.csv]
 * School performance based on the school size 
 * School performance based on the type of school
 
-Then the module provided additional information for the Module 4 challenge-- "students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered" and was asked replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. By repeating the school district analysis for this module after making these changes ([PyCitySchools_Challenge](https://github.com/Bominkkwon/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)), it allows us to analyze how these changes affected the overall analysis.
+Then the module provided additional information for the Module 4 challenge-- "students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered" and was asked replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+To replace the math and reading scores for Thomas High School with NaNs:
+```python
+
+student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "reading_score"] = np.nan
+
+student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "math_score"] = np.nan
+
+```
+By repeating the school district analysis for this module after making these changes ([PyCitySchools_Challenge](https://github.com/Bominkkwon/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)), it allows us to analyze how these changes affected the overall analysis.
 
 ## Analysis
 
