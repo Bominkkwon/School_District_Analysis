@@ -50,7 +50,7 @@ The "Average Math Score" decreased by .1 and the "Passing Math %" deceased by .2
 ![](img/Per_School_Summary_THSupdated.png)
 (School summary after making the "NaN" changes)
 
-The "Average Math Score" decreased by .06 and the "Passing Math %" decreased by .09%. The "Average Reading score" increased by .05 and the "Passing Reading %" decreased by .29% and the "Overall Passing %" decreased by .31%. One can conclude that some of the math scores of the Thomas High School 9th graders were a little higher than other students' math score and some of the reading scores of the Thomas High School 9th graders were a little lower than other students' reading score.
+The "Average Math Score" decreased by .06 and the "Passing Math %" decreased by .09%. The "Average Reading score" increased by .05 and the "Passing Reading %" decreased by .29% and the "Overall Passing %" decreased by .31%. One can conclude that some of the math scores of the Thomas High School 9th graders were a little higher than other Thomas High Schoolstudents' math scores and some of the reading scores of the Thomas High School 9th graders were a little lower than other Thomas High School students' reading scores.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
