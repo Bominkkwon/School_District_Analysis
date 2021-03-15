@@ -41,7 +41,7 @@ Then the module provided additional information for the Module 4 challenge-- "st
 ![](img/District_Summary_THSupdated.png)
 (District summary after making the "NaN" changes)
 
-The "Average Math Score" decreased by .1 and the "Passing Math %" deceased by .2%-- and due decreased in these two, the "Overall Passing %" decreased by .3%. One can conclude that the some of the math scores from the Thomas High School 9th graders that were removed was considered "passing score," which is >= 70%. Even though the "Average Reading score" did not change, the "Passing Reading %" has decreased by .1%. One can predict that this minor change has occurred due to the removal of the Thomas High School 9th grader(s) who had the "reading score" equals to the "Average Reading Score."
+The "Average Math Score" decreased by .1 and the "Passing Math %" deceased by .2%-- and due decreased in these two, the "Overall Passing %" decreased by .3%. One can conclude that some of the math scores of the Thomas High School 9th graders that were removed was considered "passing score," which is >= 70%. Even though the "Average Reading score" did not change, the "Passing Reading %" has decreased by .1%. One can predict that this minor change has occurred due to the removal of the Thomas High School 9th grader(s) who had the "reading score" equals to the "Average Reading Score" in the district summary.
 
 * How is the school summary affected?
 
@@ -50,7 +50,7 @@ The "Average Math Score" decreased by .1 and the "Passing Math %" deceased by .2
 ![](img/Per_School_Summary_THSupdated.png)
 (School summary after making the "NaN" changes)
 
-As the average math and reading score decreases, the passing % for both sujects and the overall % have decreased as well.  
+The "Average Math Score" decreased by .06 and the "Passing Math %" decreased by .09%. The "Average Reading score" increased by .05 and the "Passing Reading %" decreased by .29% and the "Overall Passing %" decreased by .31%. One can conclude that some of the math scores of the Thomas High School 9th graders were a little higher than other students' math score and some of the reading scores of the Thomas High School 9th graders were a little lower than other students' reading score.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
