@@ -35,10 +35,28 @@ Then the module provided additional information for the Module 4 challenge-- "st
 
 
 * How is the district summary affected?
+
+![](img/District_Summary_Original.png)
+(District summary with the original dataset)
+![](img/District_Summary_THSupdated.png)
+(District summary after making the "NaN" changes)
+
+The passing math % has decreased by .2%-- one can conclude that some of Thomas High School 9th graders who were removed has passing math score.
+
 * How is the school summary affected?
+
+![](img/Per_School_Summary_Original.png)
+(School summary with the original dataset)
+![](img/Per_School_Summary_THSupdated.png)
+(School summary after making the "NaN" changes)
+
+As the average math and reading score decreases, the passing % for both sujects and the overall % have decreased as well.  
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+It didn't have the major effect on their performances relative to the other schools, since THS still belongs to the top 5 school list. 
+
 * How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
-* Scores by school spending
-* Scores by school size
-* Scores by school type
+The only change here is that the THS 9th graders' reading and math scores are showing as "NaN"
+
+
