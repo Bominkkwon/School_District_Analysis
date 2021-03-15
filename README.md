@@ -88,3 +88,5 @@ Replacing the ninth-grade scores does not affect the "Scores by school size" sum
 
 Replacing the ninth-grade scores does not affect the "Scores by school type" summary.
 
+
+In conclusion, there were some major changes occurred after after reading and math scores have been replaced. The "school summary" for Thomas High School had multiple changes: decrease in "Average Math Score", "Passing Math %", "Passing Reading %", and "Overall Passing %." Since Thomas High School's "Overall Passing %" has decreased, it lowered the "Overall Passing %" of the whole district. From a micro perspective("School summary"), such eliminations made a "large" decrease and increase in the numbers, but from a macro perspective("District summary"), the eliminations did not made a huge difference. 
