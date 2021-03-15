@@ -62,7 +62,8 @@ Since such changes did not make a huge difference for Thomas High School's overa
 The only change here is that the Thomas High School 9th graders' reading and math scores are showing as "NaN."
 
 * Scores by school spending
-Replacing the ninth-grade scores does not affect the "Scores by school spending" summary.
+
+Replacing the ninth-grade scores  does not affect the "Scores by school spending" summary.
 
 * Scores by school size
 
