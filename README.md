@@ -30,6 +30,7 @@ Using Pandas and Python to explore the given datasets: 1) [schools_complete.csv]
 * School performance based on the type of school
 
 Then the module provided additional information for the Module 4 challenge-- "students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered" and was asked replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+
 To replace the math and reading scores for Thomas High School with NaNs:
 ```python
 
