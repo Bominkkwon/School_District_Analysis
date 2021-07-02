@@ -11,7 +11,7 @@
 
 
 ## Project title
-School District Analysis - Module 4 Challenge 
+School District Analysis
 
 ## Technologies
 [Python](https://www.python.org/downloads/ "Download Python") 3.7.9.
